@@ -2,16 +2,17 @@
 this is my first line
 this is my second line
 
-# class 3
-## JRE
+## class 3
+### JRE
 java runtime environment ( run any java appli.)
-## jdk
+### jdk
 java development kit ( JRE + compiler)
-## JVM
+### JVM
 java virtual machine 
-## oom
+### oom
 out of memory
-## process
+### process
 it is an applli. which runs on memory
+
 
 
