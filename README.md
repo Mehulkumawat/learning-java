@@ -12,6 +12,7 @@ public class HelloWorld {
     System.out.println("Hello world");
   }
 }
+```
 
 ## class 3
 ### JRE
